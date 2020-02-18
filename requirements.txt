@@ -1,0 +1,5 @@
+
+- R
+- R libraries: splines, stats4, survival, mvtnorm, modeltools, coin, MASS
+- python libraries: rpy2 (v. 2.7 ), numpy (v. 1.6 ), matplotlib (2.1), argparse 
+
